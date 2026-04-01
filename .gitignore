@@ -1,0 +1,8 @@
+# VitePress cache
+docs/.vitepress/cache/
+
+# VitePress build output (only if you don't want to track the dist folder)
+docs/.vitepress/dist/
+
+# Standard Node.js dependencies
+node_modules/

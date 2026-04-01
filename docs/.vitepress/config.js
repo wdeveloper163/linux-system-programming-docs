@@ -1,4 +1,5 @@
 export default {
+  base: '/linux-system-programming-docs/',
   title: 'Linux System Programming',
   description: 'Beginner-friendly notes and practical guides for learning Linux system programming with C++, build tooling, debugging, sanitizers, and project workflows.',
   themeConfig: {
