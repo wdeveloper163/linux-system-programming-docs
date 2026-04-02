@@ -41,6 +41,7 @@ export default {
             { text: 'System calls (syscall boundary)', link: '/phase-1-linux-basics/system-calls' },
             { text: 'Memory layout (stack, heap, text, BSS)', link: 'phase-1-linux-basics/memory-layout' },
             { text: 'Everything is a file', link: 'phase-1-linux-basics/everything-is-a-file' },
+            { text: 'Practical: Program Startup & Memory Maps', link: 'phase-1-linux-basics/program-startup-and-memory-maps' },
         ]
       }
     ]
