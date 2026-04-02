@@ -39,6 +39,7 @@ export default {
             { text: 'Process vs Program', link: '/phase-1-linux-basics/process-vs-program' },
             { text: 'User space vs Kernel space', link: '/phase-1-linux-basics/user-space-vs-kernel-space' },
             { text: 'System calls (syscall boundary)', link: '/phase-1-linux-basics/system-calls' },
+            { text: 'Memory layout (stack, heap, text, BSS)', link: 'phase-1-linux-basics/memory-layout' },
         ]
       }
     ]
