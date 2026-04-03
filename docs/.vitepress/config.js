@@ -49,6 +49,7 @@ export default {
         collapsed: true,
         items: [
             { text: 'open, read, write, close', link: '/phase-2-file-descriptors/open-read-write-close' },
+            { text: 'lseek', link: '/phase-2-file-descriptors/lseek' },
         ]
       }
     ]

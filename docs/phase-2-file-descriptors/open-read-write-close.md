@@ -443,10 +443,3 @@ Instead of thinking in terms of filenames, think in terms of:
 You don’t read files directly.
 You ask Linux for a File Descriptor, then use that number to work with the file.
 :::
-
-Once you understand this, you are ready for:
-
-* pipes
-* sockets
-* redirection
-* advanced Linux APIs 🚀
