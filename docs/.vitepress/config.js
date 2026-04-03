@@ -43,6 +43,13 @@ export default {
             { text: 'Everything is a file', link: 'phase-1-linux-basics/everything-is-a-file' },
             { text: 'Practical: Program Startup & Memory Maps', link: 'phase-1-linux-basics/program-startup-and-memory-maps' },
         ]
+      },
+      {
+        text: 'Phase 2: File Descriptors',
+        collapsed: true,
+        items: [
+            { text: 'open, read, write, close', link: '/phase-2-file-descriptors/open-read-write-close' },
+        ]
       }
     ]
   }
